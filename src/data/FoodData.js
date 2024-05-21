@@ -10,7 +10,7 @@ const FoodData = [
   },
   {
     id: 2,
-    img: "https://w7.pngwing.com/pngs/339/55/png-transparent-pizza-margherita-italian-cuisine-hot-dog-pizza-cheese-pizza-thumbnail.png",
+    img: "https://img.freepik.com/free-psd/top-view-pizza-isolated_23-2151361771.jpg?t=st=1716257086~exp=1716260686~hmac=3ee2aace7e2d8263dbd2c28624450f777e11db44afcd1d3eb27b0a232d73a4ba&w=740",
     name: "Margherita Pizza",
     price: 13.99,
     desc: "A classic Italian pizza topped with fresh tomatoes, mozzarella cheese, basil leaves, and a drizzle of olive oil. Simple yet bursting with flavors, this Margherita Pizza is a timeless favorite that captures the essence of Italian cuisine.",
@@ -19,7 +19,7 @@ const FoodData = [
   },
   {
     id: 3,
-    img: "https://w7.pngwing.com/pngs/21/55/png-transparent-pepperoni-pizza-margarita-pizza-margherita-italian-cuisine-tomato-pizza-food-cheese-recipe-thumbnail.png",
+    img: "https://img.freepik.com/premium-psd/pizza-psd-white-background_889056-90959.jpg?w=900",
     name: "Pepperoni Pizza",
     price: 16.99,
     desc: "Indulge in the savory delight of this Pepperoni Pizza, loaded with slices of spicy pepperoni, melted cheese, and a tangy tomato sauce. A popular choice that's perfect for satisfying your pizza cravings.",
@@ -28,7 +28,7 @@ const FoodData = [
   },
   {
     id: 4,
-    img: "https://w7.pngwing.com/pngs/569/109/png-transparent-pizza-with-vegetables-and-mushroom-toppings-sicilian-pizza-california-style-pizza-pizza-margherita-vegetarian-cuisine-pizza-food-recipe-gourmet-thumbnail.png",
+    img: "https://img.freepik.com/free-psd/top-view-pizza-isolated_23-2151361777.jpg?t=st=1716257475~exp=1716261075~hmac=790be584a59c8a19b79c396c09b966795b34615b1361142e9f537b4e05538a1e&w=740",
     name: "Mushroom and Spinach Pizza",
     price: 14.99,
     desc: "Experience the earthy flavors of mushrooms combined with the freshness of spinach on this delightful pizza. Topped with a blend of cheeses, this Mushroom and Spinach Pizza offers a balanced and satisfying taste.",
@@ -37,7 +37,7 @@ const FoodData = [
   },
   {
     id: 5,
-    img: "https://w7.pngwing.com/pngs/843/171/png-transparent-pizza-73-restaurant-catupiry-chicken-as-food-pizza-baked-goods-food-recipe-thumbnail.png",
+    img: "https://img.freepik.com/premium-psd/olympus-digital-camera_442610-251.jpg?w=900",
     name: "BBQ Chicken Pizza",
     price: 17.99,
     desc: "Savor the smoky goodness of this BBQ Chicken Pizza, featuring tender pieces of chicken marinated in barbecue sauce, red onions, and a medley of cheeses. A fusion of flavors that's sure to delight your taste buds.",
@@ -46,7 +46,7 @@ const FoodData = [
   },
   {
     id: 6,
-    img: "https://w7.pngwing.com/pngs/133/54/png-transparent-pancakes-served-on-plate-banana-pancakes-scrambled-eggs-breakfast-ihop-pancake-food-recipe-eating-thumbnail.png",
+    img: "https://img.freepik.com/premium-psd/pancakes-poured-with-butter-png_705838-3686.jpg?w=740",
     name: "Classic Pancakes",
     price: 18.99,
     desc: "Start your day with a stack of fluffy pancakes served with maple syrup and a dollop of butter. A timeless breakfast favorite that's sure to satisfy your morning cravings.",
@@ -55,7 +55,7 @@ const FoodData = [
   },
   {
     id: 7,
-    img: "https://w7.pngwing.com/pngs/645/475/png-transparent-croissant-bread-croissant-muffin-brunch-bacon-egg-and-cheese-sandwich-bread-croissants-baked-goods-food-baking-thumbnail.png",
+    img: "https://assets.caseys.com/m/e6dbe1bcd6886dd8/400x400-9843789117_base.PNG",
     name: "Egg and Bacon Croissant",
     price: 11.99,
     desc: "Indulge in a buttery croissant filled with scrambled eggs, crispy bacon, and melted cheese. A savory and satisfying breakfast option that's perfect for on-the-go mornings.",
@@ -64,7 +64,7 @@ const FoodData = [
   },
   {
     id: 8,
-    img: "https://w7.pngwing.com/pngs/683/103/png-transparent-frozen-yogurt-parfait-breakfast-yoghurt-fruit-salad-yogurt-frutti-di-bosco-food-breakfast-thumbnail.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXOxGS2lBPhvF0Zysg68G8EbpSrp3aMhHgyiZtghGHw&s",
     name: "Greek Yogurt Parfait",
     price: 15.99,
     desc: "Enjoy a healthy and refreshing breakfast with layers of creamy Greek yogurt, fresh berries, honey, and granola. A balanced option that provides a burst of flavors and energy.",
@@ -73,7 +73,7 @@ const FoodData = [
   },
   {
     id: 9,
-    img: "https://w7.pngwing.com/pngs/400/603/png-transparent-toast-tostytosty-la-tosteria-menu-food-dish-avocado-toast-food-toast-avocado-toast-thumbnail.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSksF43tpew5zR6qml70pbIDQ2GAH1iv-xqbQ&s",
     name: "Avocado Toast",
     price: 12.99,
     desc: "Savor the creaminess of mashed avocado on toasted whole grain bread, topped with a sprinkle of sea salt and red pepper flakes. A trendy and nutritious breakfast choice.",
@@ -82,7 +82,7 @@ const FoodData = [
   },
   {
     id: 10,
-    img: "https://w7.pngwing.com/pngs/20/725/png-transparent-grain-bowl-breakfast-cereal-muesli-corn-flakes-bowl-granola-food-breakfast-recipe-thumbnail.png",
+    img: "https://img.freepik.com/premium-photo/bowl-oatmeal-with-fruit-nuts-sits-white-surface_900396-17566.jpg",
     name: "Fruit and Nut Oatmeal",
     price: 16.99,
     desc: "Warm up with a bowl of hearty oatmeal packed with mixed fruits, nuts, and a drizzle of honey. A wholesome breakfast that provides a satisfying start to your day.",
@@ -91,7 +91,7 @@ const FoodData = [
   },
   {
     id: 11,
-    img: "https://w7.pngwing.com/pngs/875/111/png-transparent-north-fish-seafood-dish-smoked-salmon-restaurant-grilled-fish-hd-soup-food-seafood-thumbnail.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2qVkjFE-oJFp5V_66Mf0J17X6y3_xabFDg&s",
     name: "Grilled Salmon",
     price: 19.99,
     desc: "Delight in a perfectly grilled salmon fillet seasoned with herbs and served with a side of roasted vegetables. A healthy and flavorful dinner option that's rich in omega-3 fatty acids.",
@@ -100,7 +100,7 @@ const FoodData = [
   },
   {
     id: 12,
-    img: "https://w7.pngwing.com/pngs/756/828/png-transparent-taglierini-carbonara-fettuccine-alfredo-chicken-pasta-chicken-fillet-thumbnail.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgLuaSXVBvRpYH2Eqv7lm3YVtJ6YyQVKXheg&s",
     name: "Chicken Alfredo Pasta",
     price: 16.99,
     desc: "Indulge in creamy fettuccine Alfredo pasta with tender pieces of grilled chicken. This comforting dinner dish is a blend of pasta, rich Alfredo sauce, and savory chicken.",
@@ -109,7 +109,7 @@ const FoodData = [
   },
   {
     id: 13,
-    img: "https://w7.pngwing.com/pngs/651/721/png-transparent-veggie-burger-vegetable-food-recipe-stir-frying-vegetables-frying-pan-frozen-vegetables-fruit-thumbnail.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqq1l1Zxgwe9P_acRbZnEHYwlKQJ6bwCylqw&s",
     name: "Vegetable Stir-Fry",
     price: 13.99,
     desc: "Enjoy a medley of colorful vegetables stir-fried in a flavorful sauce, served over steamed rice. A light and nutritious dinner that's both satisfying and wholesome.",
@@ -118,7 +118,7 @@ const FoodData = [
   },
   {
     id: 14,
-    img: "https://w7.pngwing.com/pngs/575/331/png-transparent-burrito-taco-bell-mexican-cuisine-chipotle-mexican-grill-menu-thumbnail.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMNRVb0rlEU84z3NfsmiesRhkZrpqpYFu2GA&s",
     name: "Grilled Chicken Burrito Bowl",
     price: 16.99,
     desc: "Savor the flavors of a delicious burrito bowl with tender grilled chicken, black beans, rice, sautéed peppers and onions, shredded cheese, and a drizzle of zesty cilantro-lime dressing. A hearty and satisfying chicken dinner option.",
@@ -127,7 +127,7 @@ const FoodData = [
   },
   {
     id: 15,
-    img: "https://w7.pngwing.com/pngs/47/171/png-transparent-chinese-noodles-hot-and-sour-soup-risotto-lomi-lamian-slippery-mushrooms-risotto-dusi-soup-food-recipe-thumbnail.png",
+    img: "https://img.freepik.com/premium-photo/mushroom-risotto-isolated-white-background_881868-1542.jpg",
     name: "Mushroom Risotto",
     price: 17.99,
     desc: "Indulge in creamy and flavorful mushroom risotto, made with Arborio rice, sautéed mushrooms, and a touch of Parmesan cheese. A comforting and sophisticated dinner choice.",
@@ -136,7 +136,7 @@ const FoodData = [
   },
   {
     id: 16,
-    img: "https://w7.pngwing.com/pngs/47/171/png-transparent-chinese-noodles-hot-and-sour-soup-risotto-lomi-lamian-slippery-mushrooms-risotto-dusi-soup-food-recipe-thumbnail.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPfaDJH0bX0xT19bwbGYJDt5BPx3rIb_MI7Q&s",
     name: "Cheese and Crackers Platter",
     price: 12.99,
     desc: "Enjoy a variety of artisan cheeses, paired with an assortment of crispy crackers and complemented by fresh fruits and nuts. A delightful snack option for sharing or indulging in on your own.",
@@ -145,7 +145,7 @@ const FoodData = [
   },
   {
     id: 17,
-    img: "https://w7.pngwing.com/pngs/204/32/png-transparent-crispy-fried-chicken-karaage-chicken-nugget-chicken-fingers-buffalo-wing-carrot-chilli-thumbnail.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmSaMBZFPnY3ENNTYwE8AI57Oo5Tgt59XPw&s",
     name: "Crispy Chicken Wings",
     price: 13.99,
     desc: "Savor the satisfying crunch of crispy chicken wings seasoned to perfection. Choose your favorite sauce, from tangy BBQ to spicy buffalo, for a flavorful snacking experience.",
@@ -154,7 +154,7 @@ const FoodData = [
   },
   {
     id: 18,
-    img: "https://w7.pngwing.com/pngs/816/163/png-transparent-grilled-skewered-meat-bakery-paneer-tikka-indian-cuisine-vegetarian-cuisine-cake-food-baking-cake-decorating-thumbnail.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPXrz6nqXjxe1qcUiuDFqRZdI0saBHEqL1Mg&s",
     name: "Paneer Tikka Skewers",
     price: 20.99,
     desc: "Enjoy succulent pieces of marinated paneer (Indian cottage cheese) skewered and grilled to perfection. Served with mint chutney, these paneer tikka skewers offer a flavorful and aromatic Indian snack experience.",
@@ -163,7 +163,7 @@ const FoodData = [
   },
   {
     id: 19,
-    img: "https://w7.pngwing.com/pngs/356/675/png-transparent-falafel-lebanese-cuisine-take-out-mediterranean-cuisine-hummus-bed-miscellaneous-furniture-food-thumbnail.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5UNLsV0HS0jCkSWgc_01l_D_x0MdSDVz2AQ&s",
     name: "Hummus and Veggie Platter",
     price: 25.99,
     desc: "Relish the smooth and flavorful hummus accompanied by a variety of fresh vegetable sticks and pita bread. A nutritious and satisfying option for a light and refreshing snack.",
@@ -172,7 +172,7 @@ const FoodData = [
   },
   {
     id: 20,
-    img: "https://w7.pngwing.com/pngs/435/847/png-transparent-pincho-canape-skewer-fruit-others-thumbnail.png",
+    img: "https://www.creativefabrica.com/wp-content/uploads/2023/08/11/Watercolor-Fruit-Skewers-Clipart-Graphics-76706770-1-580x387.jpg",
     name: "Fruit Skewers",
     price: 30.99,
     desc: "Indulge in a colorful assortment of fruit skewers featuring juicy chunks of melon, berries, pineapple, and more. A sweet and refreshing snack that's both delicious and visually appealing.",

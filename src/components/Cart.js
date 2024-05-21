@@ -52,7 +52,6 @@ const Cart = () => {
     qty={ele.qty}
     />
 
-    
 <div className="absolute bottom-0 ">
 
         <h3 className="font-semibold text-gray-800">{totalQty === 1 ? "Item : " : "Items : "}  
@@ -80,24 +79,24 @@ const Cart = () => {
         </button>
       </div>
   </div>
-   
    )
-   
     : <>
     <h2 className="text-center text-xl font-bold text-gray-800">
           Your cart is empty
         </h2>
 
         <button
-           onClick={() => navigate("/")}
+           onClick={() => {
+            setActiveCart(!activeCart)
+            navigate("/")
+           }
+           }
           className="bg-green-500 font-bold px-3 text-white py-2 rounded-lg w-[90vw] lg:w-[18vw] mb-5"
         >
           Search Items
         </button>
     </> 
 }
-
-
 
     </div>
     <FaShoppingCart
